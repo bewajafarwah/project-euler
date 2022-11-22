@@ -1,9 +1,8 @@
 #include<iostream>
 using namespace std;
 
-int main(int argc, const char* argv[]) {
+int main(int argc, char* argv[]) {
     long n = 600851475143;
-    //long n = 13195;
 
     int factor = 2;
     int lastFactor = 1;

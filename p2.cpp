@@ -2,13 +2,6 @@
 using namespace std;
 
 int main() {
-
-    /*
-    
-    fibo: 1 1 2 3 5 8 
-
-    */
-
     int sum = 0;
     int limit = 4000000;
     int a = 1;
